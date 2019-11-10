@@ -1,0 +1,42 @@
+﻿  stdafx.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+  Cfunc.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+Cfunc.cpp(117): warning C4101: “nLen”: 未引用的局部变量
+Cfunc.cpp(127): warning C4996: 'wcstok': wcstok has been changed to conform with the ISO C standard, adding an extra context parameter. To use the legacy Microsoft wcstok, define _CRT_NON_CONFORMING_WCSTOK.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(254): note: 参见“wcstok”的声明
+Cfunc.cpp(131): warning C4996: 'wcstok': wcstok has been changed to conform with the ISO C standard, adding an extra context parameter. To use the legacy Microsoft wcstok, define _CRT_NON_CONFORMING_WCSTOK.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(254): note: 参见“wcstok”的声明
+Cfunc.cpp(191): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  Http.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  WeChatDll.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+WeChatDll.cpp(117): warning C4005: “EXPORT”: 宏重定义
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afxv_w32.h(191): note: 参见“EXPORT”的前一个定义
+  WeChatServer.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+WeChatServer.cpp(750): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+WeChatServer.cpp(762): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+WeChatDll.obj : warning LNK4104: 导出符号“DllInitialize”应为 PRIVATE
+    正在创建库 C:\Users\零一解密\Desktop\WeChatTest\WeChatDll\Release\WeChatDll.lib 和对象 C:\Users\零一解密\Desktop\WeChatTest\WeChatDll\Release\WeChatDll.exp
+  正在生成代码
+c:\users\零一解密\desktop\wechattest\wechatdll\wechatdll\wechatserver.cpp(929): warning C4700: 使用了未初始化的局部变量“pJsonPostData”
+  All 577 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  WeChatDll.vcxproj -> C:\Users\零一解密\Desktop\WeChatTest\WeChatDll\Release\WeChatDll.dll
+  WeChatDll.vcxproj -> C:\Users\零一解密\Desktop\WeChatTest\WeChatDll\Release\WeChatDll.pdb (Full PDB)
